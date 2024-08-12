@@ -1,3 +1,10 @@
+## Branch Information
+
+This branch (`typescript-basic-implementation`) contains the initial implementation of the Tip Calculator project using TypeScript. The code in this branch is based on a straightforward state management approach without the use of `useReducer`.
+
+The next steps involve creating a new branch (`feature/useReducer-migration`) to refactor the state management, transitioning to the `useReducer` hook to handle more complex state logic.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
